@@ -1,0 +1,6 @@
+name: BlockPreventer
+version: 1.1.1
+main: de.donut4gamer.blockpreventer.BlockPreventer
+api-version: 1.8
+description: Disables breaking of blocks in Survival mode.
+author: Donut4GAMER

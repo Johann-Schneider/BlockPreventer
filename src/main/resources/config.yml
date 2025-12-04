@@ -1,0 +1,9 @@
+# BlockPreventer Configuration (by Donut4GAMER)
+# thanks for downloading this plugin
+
+# set the gamemode, where the blockprventer works
+# use: SURVIVAL, ADVENTURE, CREATIVE
+Gamemode: SURVIVAL
+
+# set the bypasspermission that allows users to break blocks even tho they are in the gamemode listed above
+BypassPermission: "blockpreventer.bypass"
